@@ -282,7 +282,7 @@ with tab1:
 
     st.markdown("## About Me")
     st.markdown("""
-    I'm a final-year engineering student at **Manipal University Jaipur** passionate about building 
+    I'm a final-year engineering student at **Manipal University Karnal** passionate about building 
     efficient, automated solutions. With hands-on experience at **Dell Technologies** and **BITS Pilani**, 
     I specialize in backend development, database optimization, and creating tools that reduce manual effort significantly.
 
@@ -292,7 +292,7 @@ with tab1:
     st.markdown("## Education")
     st.markdown("""
     <div class='pro-card'>
-        <h3>Manipal University Jaipur</h3>
+        <h3>Manipal University Karnal</h3>
         <span class='subtitle'>B.Tech in Computer and Communication Engineering</span><br>
         <span class='date'>2022 – 2026 · CGPA: 8.30 / 10</span>
     </div>
@@ -303,7 +303,7 @@ with tab1:
     st.markdown("""
     <div class='pro-card'>
         <h3>Student Placement Coordinator</h3>
-        <span class='subtitle'>Manipal University Jaipur</span> · <span class='date'>Jan 2025 – Present</span>
+        <span class='subtitle'>Manipal University Karnal</span> · <span class='date'>Jan 2025 – Present</span>
         <ul>
             <li>Coordinate between placement cell, recruiters, and alumni</li>
             <li>Led resume workshops and mock interviews for <strong>200+ students</strong></li>
@@ -554,7 +554,8 @@ with tab5:
 st.markdown("---")
 st.markdown("""
 <p class='center-text' style='color: rgba(255, 255, 255, 0.4); font-size: 0.85rem;'>
-    © 2026 Pranshu Gautam · Jaipur, India
+    © 2026 Pranshu Gautam · Karnal, India
 </p>
 """, unsafe_allow_html=True)
+
 
