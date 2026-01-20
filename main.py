@@ -259,7 +259,7 @@ with tab1:
     with col2:
         st.markdown("""
         <div class='stat-box'>
-            <div class='stat-number'>7x</div>
+            <div class='stat-number'>7×</div>
             <div class='stat-label'>Patents</div>
         </div>
         """, unsafe_allow_html=True)
@@ -557,6 +557,7 @@ st.markdown("""
     © 2026 Pranshu Gautam · Karnal, India
 </p>
 """, unsafe_allow_html=True)
+
 
 
 
