@@ -303,7 +303,7 @@ with tab1:
     st.markdown("""
     <div class='pro-card'>
         <h3>Student Placement Coordinator</h3>
-        <span class='subtitle'>Manipal University Karnal</span> · <span class='date'>Jan 2025 – Present</span>
+        <span class='subtitle'>Manipal University Jaipur</span> · <span class='date'>Jan 2025 – Present</span>
         <ul>
             <li>Coordinate between placement cell, recruiters, and alumni</li>
             <li>Manage placement drives and company interactions</li>
@@ -557,6 +557,7 @@ st.markdown("""
     © 2026 Pranshu Gautam · Karnal, India
 </p>
 """, unsafe_allow_html=True)
+
 
 
 
