@@ -235,9 +235,9 @@ st.markdown("""
 
 st.markdown("""
 <div class='contact-links'>
-    <a href='mailto:pranshugautam8699@gmail.com' class='contact-link'>📧 Email</a>
-    <a href='https://www.linkedin.com/in/pranshu-gautam' target='_blank' class='contact-link'>💼 LinkedIn</a>
-    <a href='https://github.com/PRAN5HU' target='_blank' class='contact-link'>💻 GitHub</a>
+    <a href='mailto:pranshugautam8699@gmail.com' class='contact-link'>Email</a>
+    <a href='https://www.linkedin.com/in/pranshu-gautam' target='_blank' class='contact-link'>LinkedIn</a>
+    <a href='https://github.com/PRAN5HU' target='_blank' class='contact-link'>GitHub</a>
 </div>
 """, unsafe_allow_html=True)
 
@@ -558,6 +558,7 @@ st.markdown("""
     © 2026 Pranshu Gautam · Karnal, India
 </p>
 """, unsafe_allow_html=True)
+
 
 
 
