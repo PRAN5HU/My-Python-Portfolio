@@ -501,7 +501,8 @@ with tab5:
     <div class='pro-card'>
         <h3>Hackathons</h3>
         <ul>
-            <li><strong>Winner</strong> — Autobots2.0, Algorithm Faceoff (Dell Technologies)</li>
+            <li><strong>Winner</strong> — Autobots2.0)</li>
+            <li><strong>Winner</strong> — Algorithm Faceoff (Dell Technologies)</li>
             <li><strong>Winner</strong> — Randomize Hackathon (MUJ)</li>
             <li><strong>Top 3</strong> — Turing Hacks (MUJ)</li>
             <li><strong>Top 3</strong> — Bobble AI Hackathon</li>
@@ -557,5 +558,6 @@ st.markdown("""
     © 2026 Pranshu Gautam · Karnal, India
 </p>
 """, unsafe_allow_html=True)
+
 
 
