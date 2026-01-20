@@ -292,7 +292,7 @@ with tab1:
     st.markdown("## Education")
     st.markdown("""
     <div class='pro-card'>
-        <h3>Manipal University Karnal</h3>
+        <h3>Manipal University Jaipur</h3>
         <span class='subtitle'>B.Tech in Computer and Communication Engineering</span><br>
         <span class='date'>2022 – 2026 · CGPA: 8.30 / 10</span>
     </div>
@@ -557,6 +557,7 @@ st.markdown("""
     © 2026 Pranshu Gautam · Karnal, India
 </p>
 """, unsafe_allow_html=True)
+
 
 
 
