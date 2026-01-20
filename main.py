@@ -306,7 +306,6 @@ with tab1:
         <span class='subtitle'>Manipal University Karnal</span> · <span class='date'>Jan 2025 – Present</span>
         <ul>
             <li>Coordinate between placement cell, recruiters, and alumni</li>
-            <li>Led resume workshops and mock interviews for <strong>200+ students</strong></li>
             <li>Manage placement drives and company interactions</li>
         </ul>
     </div>
@@ -558,6 +557,7 @@ st.markdown("""
     © 2026 Pranshu Gautam · Karnal, India
 </p>
 """, unsafe_allow_html=True)
+
 
 
 
