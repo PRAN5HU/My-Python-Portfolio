@@ -294,7 +294,7 @@ with tab1:
     <div class='pro-card'>
         <h3>Manipal University Jaipur</h3>
         <span class='subtitle'>B.Tech in Computer and Communication Engineering</span><br>
-        <span class='date'>2022 – 2026 · CGPA: 8.34 / 10</span>
+        <span class='date'>2022 – 2026 · CGPA: 8.30 / 10</span>
     </div>
     """, unsafe_allow_html=True)
 
@@ -517,7 +517,7 @@ with tab5:
             <li><strong>4× Scholarship Recipient</strong> — 20% Scholarship</li>
             <li><strong>7× Patent Applications</strong> — Innovation in Technology</li>
             <li><strong>3× Student Excellence Awards</strong> — Outstanding Performance</li>
-            <li><strong>8.34 CGPA</strong> — Consistent Academic Achievement</li>
+            <li><strong>8.30 CGPA</strong> — Consistent Academic Achievement</li>
         </ul>
     </div>
     """, unsafe_allow_html=True)
@@ -557,3 +557,4 @@ st.markdown("""
     © 2026 Pranshu Gautam · Jaipur, India
 </p>
 """, unsafe_allow_html=True)
+
