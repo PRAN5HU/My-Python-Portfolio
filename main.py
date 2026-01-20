@@ -282,7 +282,7 @@ with tab1:
 
     st.markdown("## About Me")
     st.markdown("""
-    I'm a final-year engineering student at **Manipal University Karnal** passionate about building 
+    I'm a final-year engineering student at **Manipal University Jaipur** passionate about building 
     efficient, automated solutions. With hands-on experience at **Dell Technologies** and **BITS Pilani**, 
     I specialize in backend development, database optimization, and creating tools that reduce manual effort significantly.
 
@@ -557,6 +557,7 @@ st.markdown("""
     © 2026 Pranshu Gautam · Karnal, India
 </p>
 """, unsafe_allow_html=True)
+
 
 
 
